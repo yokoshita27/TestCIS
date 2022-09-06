@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "68160FD2B44AD2BF43379A014FD36BD0",
+  "keywordClasses": [
+    {
+      "name": "mypackage.userLogin",
+      "keywordMethods": [
+        {
+          "name": "Login_Officer",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

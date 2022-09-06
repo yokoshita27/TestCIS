@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "29DC1E641A07E50EF4B916492E7B4605",
+  "keywordClasses": [
+    {
+      "name": "mypackage.userForm",
+      "keywordMethods": [
+        {
+          "name": "BiayaUmum",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

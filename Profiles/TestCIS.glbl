@@ -9,4 +9,9 @@
       <initValue>'https://testcis.totalbp.com/'</initValue>
       <name>Url</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Kode Proyek</description>
+      <initValue>'2222'</initValue>
+      <name>Kode_Proyek</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UserAccount</name>
+   <tag></tag>
+   <elementGuidId>f4dc1253-7c36-44a4-a920-75c6f251ffaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-toggle.user-menu > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-navbar-collapse']/div/div/ul/li[5]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4c4a7287-d525-4c32-ad4b-840621ab4a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Officer (Trial)</value>
+      <webElementGuid>69caaf95-2a9f-43c7-be26-cd1688bf2e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-navbar-collapse&quot;)/div[1]/div[@class=&quot;right clearfix&quot;]/ul[@class=&quot;nav navbar-nav pull-right right-navbar-nav&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle user-menu&quot;]/span[1]</value>
+      <webElementGuid>6682361c-1a7a-44b4-b138-ecfd2264b8e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-navbar-collapse']/div/div/ul/li[5]/a/span</value>
+      <webElementGuid>1ba4895a-e4cd-4ffa-af03-78fd99ca5f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incoming messages'])[1]/following::span[1]</value>
+      <webElementGuid>c40a0cee-cfc0-41f0-8541-2847d72b0f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::span[1]</value>
+      <webElementGuid>61105e96-c072-4d70-b2f7-5173aabd5461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Officer (Trial)']/parent::*</value>
+      <webElementGuid>9437e647-d950-49c7-952a-3a5d6da7c291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/span</value>
+      <webElementGuid>bb9181f1-b711-4cd2-9c67-c94b5de4bfbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Officer (Trial)' or . = 'Officer (Trial)')]</value>
+      <webElementGuid>abab0992-82ac-423c-9b32-9a3efb54e42e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
