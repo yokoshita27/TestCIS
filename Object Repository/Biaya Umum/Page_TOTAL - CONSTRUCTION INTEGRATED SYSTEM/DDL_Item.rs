@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='s2id_jqg2_Nama_Spec']/a/span</value>
+         <value>//table[@id='MainGridDetail']//span[@class='select2-chosen']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#s2id_jqg2_Nama_Spec > a.select2-choice > span.select2-chosen</value>
+         <value>[aria-describedby='MainGridDetail_Nama_Spec'] .select2-choice</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6512c22d-0941-4cdf-a1db-a87f9c293998</webElementGuid>
+      <webElementGuid>85f697cb-f7a5-4313-97e1-e5757066485d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-chosen</value>
-      <webElementGuid>af8e82ad-ce2b-43d3-8f8e-756efdf55791</webElementGuid>
+      <webElementGuid>481e7529-acd5-47dc-9c08-89f49eac1937</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>MOCK UP</value>
-      <webElementGuid>f52376a4-058d-4a26-a3cb-495ef97846b7</webElementGuid>
+      <webElementGuid>a8365cb1-7680-479b-bc60-9cdc165aaf4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;s2id_jqg2_Nama_Spec&quot;)/a[@class=&quot;select2-choice&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
-      <webElementGuid>3d7d7736-b14e-457c-b83d-6ac2a7e1665f</webElementGuid>
+      <webElementGuid>8e3869ad-fbc5-49ce-b721-fbddf75bde25</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='s2id_jqg2_Nama_Spec']/a/span</value>
-      <webElementGuid>670d32b1-bd4a-4529-aa7c-126531ed4d26</webElementGuid>
+      <webElementGuid>f3620cea-ba5d-47be-aaf2-d775c83e8dc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode_Aktivitas'])[1]/following::span[2]</value>
-      <webElementGuid>9065b79a-6d4c-4466-9460-d5bd8c5364c5</webElementGuid>
+      <webElementGuid>ff4b18cd-0478-475d-8623-451edf11fee5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IDDetailRPT'])[1]/following::span[6]</value>
-      <webElementGuid>56ebf628-6655-49bc-bd6c-bac66ca90836</webElementGuid>
+      <webElementGuid>4c4f4b7d-a503-45d5-a7de-8676a18c9b31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah'])[1]/preceding::span[2]</value>
-      <webElementGuid>610aaee7-0765-44d0-8db1-7f3902883f73</webElementGuid>
+      <webElementGuid>2102a848-b3f1-49e4-84d2-c4299c38c4c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::span[2]</value>
-      <webElementGuid>d72455dd-9eba-4b30-acdb-7f40ef283d46</webElementGuid>
+      <webElementGuid>3aff9899-752a-45b8-aed3-e59086b1e88d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='MOCK UP']/parent::*</value>
-      <webElementGuid>0c8bc395-9730-41cf-93ff-ab368481d143</webElementGuid>
+      <webElementGuid>f4bad24a-1dea-4147-941e-1cb19f1785cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/div/a/span</value>
-      <webElementGuid>bc183a21-150c-4599-9c43-fa32e7dee6c6</webElementGuid>
+      <webElementGuid>67a459e1-2ad0-4f13-9873-1fdd2481db7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'MOCK UP' or . = 'MOCK UP')]</value>
-      <webElementGuid>ddbb20f5-588b-40e7-8614-1f401086557d</webElementGuid>
+      <webElementGuid>7692c125-2e0e-4bd5-a001-5833663596d3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

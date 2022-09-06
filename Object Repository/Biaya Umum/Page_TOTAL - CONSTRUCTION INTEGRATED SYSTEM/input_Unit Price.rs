@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='jqg2_Unitprice1']</value>
+         <value>//div[@class='panel form-horizontal']/div[@class='panel-body text-left']/div[2]//input[@name='name']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#jqg2_Unitprice1</value>
+         <value>.form-horizontal.panel > .panel-body > div:nth-of-type(2) [name='name']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b6487ea5-77d4-465d-8e59-8c69b8e33ec7</webElementGuid>
+      <webElementGuid>5453ce66-f291-4fda-baa0-2df32a124f17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>jqg2_Unitprice1</value>
-      <webElementGuid>f1a4b23f-accd-4e6a-9e55-8f7b2e488fdc</webElementGuid>
+      <webElementGuid>0329b246-64bf-4bc5-81b9-58a2c416d4cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>49ab052e-d89f-4403-b400-23bbec7b9267</webElementGuid>
+      <webElementGuid>20bb20a7-413b-4c18-9ab2-aedcab1b5d4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>4870ee6f-0fa3-49ec-84a2-3124d8b9121f</webElementGuid>
+      <webElementGuid>2ba6dbbd-7e67-49b7-8eb1-35e0211f2ed6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9b4d32cb-c8da-431c-a6cb-61430f5b6dd2</webElementGuid>
+      <webElementGuid>7a4d1e6b-a140-4408-92b8-c1dce3f097ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;jqg2_Unitprice1&quot;)</value>
-      <webElementGuid>54f68582-1312-4e92-9ff7-1c45e0219925</webElementGuid>
+      <webElementGuid>39d85940-b8bd-4c41-9404-e8d528f19135</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='jqg2_Unitprice1']</value>
-      <webElementGuid>0d4b668f-3789-406e-9bc5-7226d41b816b</webElementGuid>
+      <webElementGuid>9c186b6a-882c-4bdf-8961-2fc748ef2b92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='MainGridDetail_jqg2']/div/div[2]/div[2]/div/div/div/input</value>
-      <webElementGuid>110e4728-7e6b-4022-b782-26793d4a8ef4</webElementGuid>
+      <webElementGuid>a862c2a3-80fb-4ff3-942b-3608f1611e71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/input</value>
-      <webElementGuid>55746bf1-dea3-42a8-91f0-9fcd39c9ee3e</webElementGuid>
+      <webElementGuid>5757e195-bcb9-41f7-905b-d3a31d1b10b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'jqg2_Unitprice1' and @name = 'name' and @type = 'text']</value>
-      <webElementGuid>a801ecaa-1c4b-4432-b600-c3d270b0712d</webElementGuid>
+      <webElementGuid>6f43caee-cfc3-48bf-97dc-d86b39d6753c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

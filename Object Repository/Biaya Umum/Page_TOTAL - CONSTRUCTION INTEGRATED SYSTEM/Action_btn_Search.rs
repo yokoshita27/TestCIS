@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Volume</name>
+   <name>Action_btn_Search</name>
    <tag></tag>
-   <elementGuidId>4aab8bea-a51d-4553-ab21-18ad17be1ce5</elementGuidId>
+   <elementGuidId>ac721f1f-4e7d-4208-a6ef-7355be974ba6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class='panel form-horizontal']//div[@class='col-sm-6']/input[@name='name']</value>
+         <value>//span[@id='1_editIcon']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.form-horizontal.panel .col-sm-6 > [type='text']</value>
+         <value>.fa-ellipsis-h</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>a17cd861-8b1f-455b-ac27-59ab4b06d16c</webElementGuid>
+      <value>span</value>
+      <webElementGuid>27966f6d-8175-4e9f-9831-a4c9a4afa25e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>jqg2_Vol</value>
-      <webElementGuid>cc7737b3-915c-4c66-bbfb-bd9da03b688d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>name</value>
-      <webElementGuid>5c70f1b0-66c3-4f7b-9b35-2871a0051d05</webElementGuid>
+      <value>1_editIcon</value>
+      <webElementGuid>193884bd-69ca-451d-976e-c6e788d09dfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>f5234191-f6ae-4e2f-a875-da1cd639ad07</webElementGuid>
+      <value>fa fa-ellipsis-h</value>
+      <webElementGuid>8989da16-7cbe-4ce9-9473-d41468c06afc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>60c6e079-47cf-4b16-8006-63e7ac834365</webElementGuid>
+      <value>doEdit(1);return false;</value>
+      <webElementGuid>93bdc93a-9f00-49e6-a919-750616d56cf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;jqg2_Vol&quot;)</value>
-      <webElementGuid>1392ff68-c32d-4a13-9aa8-3dd022de8bcc</webElementGuid>
+      <value>id(&quot;1_editIcon&quot;)</value>
+      <webElementGuid>5fb133b5-83bd-4069-9cd6-89b5a65918f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='jqg2_Vol']</value>
-      <webElementGuid>ef8d8224-5b77-4478-89ab-1c28e68e9422</webElementGuid>
+      <value>//span[@id='1_editIcon']</value>
+      <webElementGuid>1d03d6e3-111d-40cc-a75b-cf650b9290f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='MainGridDetail_jqg2']/div/div[2]/div/div/div/div/input</value>
-      <webElementGuid>7d0692d6-09e8-463e-8e9b-3ff1ef56e65f</webElementGuid>
+      <value>//tr[@id='1']/td[32]/span</value>
+      <webElementGuid>33fa363d-4a66-4e76-a760-6944f6e2f33b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[2]/div/div/div[2]/div/div/div/div/input</value>
-      <webElementGuid>72f87d15-4040-4125-a7bc-707eba64c6d9</webElementGuid>
+      <value>//td[32]/span</value>
+      <webElementGuid>cade0f55-6080-4e9b-9ead-e88d8bb9bd54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'jqg2_Vol' and @name = 'name' and @type = 'text']</value>
-      <webElementGuid>d32bbe9f-02e2-4178-9ffb-2bd3f08e068c</webElementGuid>
+      <value>//span[@id = '1_editIcon']</value>
+      <webElementGuid>e7f7acb0-3e48-4a30-bf0c-a03e7776a224</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

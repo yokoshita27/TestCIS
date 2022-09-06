@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PopUp_btn_Cari</name>
+   <name>button_Reject</name>
    <tag></tag>
-   <elementGuidId>6d27145a-d255-4730-a137-e1dc8f5aecc6</elementGuidId>
+   <elementGuidId>39330d1b-ec05-408e-977d-b20685a21bf7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='btnRunView']</value>
+         <value>(//button[@onclick='return false;'])[4]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#btnRunView</value>
+         <value>button.btn.red.btn_reject</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,118 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7382083d-cd69-491c-8f7e-f5df3554cb68</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>92c5796f-49b7-433a-85af-a99f7351605d</webElementGuid>
+      <webElementGuid>539486c6-efa7-4132-9da4-0c4c666b91c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-info pull-right</value>
-      <webElementGuid>44d347b8-058f-4664-9624-2e0702705ed7</webElementGuid>
+      <value>btn red btn_reject</value>
+      <webElementGuid>812021df-001d-45d8-a311-6b85df1399b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>btnRunView</value>
-      <webElementGuid>ebb16ca2-a5ee-4502-97cf-202e4682e812</webElementGuid>
+      <value>return false;</value>
+      <webElementGuid>d100cdd6-eb46-4088-afdb-9cdfb19d1c17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Cari</value>
-      <webElementGuid>ab8cb136-fcc4-4602-b269-091afc547024</webElementGuid>
+      <value>Reject</value>
+      <webElementGuid>78f0d4c8-7ce0-4ee5-8bc4-5371d8c57b88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btnRunView&quot;)</value>
-      <webElementGuid>194d14d8-e065-414e-82b1-7183e9848f81</webElementGuid>
+      <value>id(&quot;dv_DetailContainer&quot;)/div[@class=&quot;form-actions noborderx apv-control&quot;]/div[@class=&quot;form-actions&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;btn red btn_reject&quot;]</value>
+      <webElementGuid>606683ec-db0b-46bc-9b70-225556b57224</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='btnRunView']</value>
-      <webElementGuid>0300d025-a6c5-4ebf-bd4c-ff8a8d8c44f2</webElementGuid>
+      <value>(//button[@onclick='return false;'])[4]</value>
+      <webElementGuid>3eb9480f-7ece-422c-9cbf-7b095f5995da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='responsive2']/div/div/div[2]/div/div[2]/button</value>
-      <webElementGuid>4fb73029-ca34-4559-bf5a-1dc3b61f4276</webElementGuid>
+      <value>//div[@id='dv_DetailContainer']/div[4]/div[3]/div/div[2]/div[2]/button</value>
+      <webElementGuid>28368996-83ef-4d05-8111-20e89a01986f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Kunci'])[1]/following::button[1]</value>
-      <webElementGuid>d8554945-cb82-4425-b42d-c1982d6001bc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revision'])[1]/following::button[1]</value>
+      <webElementGuid>90fc59fb-992f-422a-a9f5-d18e8467ccca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis RAP'])[1]/following::button[1]</value>
-      <webElementGuid>41ab75d8-2afe-400e-9fd8-77c6dc99d844</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::button[2]</value>
+      <webElementGuid>0c935936-dc18-499d-8e02-735325753c94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='RAP'])[1]/preceding::button[1]</value>
-      <webElementGuid>4deb52eb-9d1c-46ee-b8f7-2d3a341fb00c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[1]/preceding::button[1]</value>
+      <webElementGuid>fa36cd8d-66b6-4c7a-932e-79ad6ecf246c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::button[1]</value>
-      <webElementGuid>1b31ae48-abe2-4008-8dc7-c9375004d8f1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yokoshita Dwi Purnomo, S.Kom.'])[8]/preceding::button[2]</value>
+      <webElementGuid>5ffa2fd4-0c2c-46b4-95b7-ef29f2d2e202</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Cari']/parent::*</value>
-      <webElementGuid>edd1e90b-6519-4e70-9de2-4d2f1b81e46b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Reject']/parent::*</value>
+      <webElementGuid>11443d7c-3b1c-4600-92a4-423dd1d05cc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>63040b2b-b1ad-44b5-8f8f-8e6c7c8239b1</webElementGuid>
+      <value>//div[3]/div/div[2]/div[2]/button</value>
+      <webElementGuid>b0ca0749-63f5-4900-8299-d81c717c25c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'btnRunView' and (text() = 'Cari' or . = 'Cari')]</value>
-      <webElementGuid>3bae091c-17cb-44b2-bd48-3c63391cb655</webElementGuid>
+      <value>//button[(text() = 'Reject' or . = 'Reject')]</value>
+      <webElementGuid>e0236669-034e-4bc4-851d-f3d2409bddee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

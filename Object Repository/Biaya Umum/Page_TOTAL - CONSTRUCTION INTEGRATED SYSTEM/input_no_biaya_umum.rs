@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Volume</name>
+   <name>input_no_biaya_umum</name>
    <tag></tag>
-   <elementGuidId>4aab8bea-a51d-4553-ab21-18ad17be1ce5</elementGuidId>
+   <elementGuidId>c798cac5-7ee7-4ffc-a56d-6be0598602b4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class='panel form-horizontal']//div[@class='col-sm-6']/input[@name='name']</value>
+         <value>//input[@id='gs_Gen_Cost_Code']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.form-horizontal.panel .col-sm-6 > [type='text']</value>
+         <value>#gs_Gen_Cost_Code</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -22,31 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a17cd861-8b1f-455b-ac27-59ab4b06d16c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>jqg2_Vol</value>
-      <webElementGuid>cc7737b3-915c-4c66-bbfb-bd9da03b688d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>name</value>
-      <webElementGuid>5c70f1b0-66c3-4f7b-9b35-2871a0051d05</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>f5234191-f6ae-4e2f-a875-da1cd639ad07</webElementGuid>
+      <webElementGuid>dc388478-f6df-46a7-9a2e-4573ea6a6bf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,46 +30,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>60c6e079-47cf-4b16-8006-63e7ac834365</webElementGuid>
+      <webElementGuid>8234e14a-add1-4706-97d3-95cc8785649c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Gen_Cost_Code</value>
+      <webElementGuid>5b6440a1-0312-49ef-aee1-ab07f27fba2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>gs_Gen_Cost_Code</value>
+      <webElementGuid>cfa59e30-bb29-4204-9f93-7961784982a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;jqg2_Vol&quot;)</value>
-      <webElementGuid>1392ff68-c32d-4a13-9aa8-3dd022de8bcc</webElementGuid>
+      <value>id(&quot;gs_Gen_Cost_Code&quot;)</value>
+      <webElementGuid>cef2ef06-6794-4841-be81-c20b826a556c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='jqg2_Vol']</value>
-      <webElementGuid>ef8d8224-5b77-4478-89ab-1c28e68e9422</webElementGuid>
+      <value>//input[@id='gs_Gen_Cost_Code']</value>
+      <webElementGuid>fea0da35-e8a7-4f4e-b0c4-f13e24b24a43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='MainGridDetail_jqg2']/div/div[2]/div/div/div/div/input</value>
-      <webElementGuid>7d0692d6-09e8-463e-8e9b-3ff1ef56e65f</webElementGuid>
+      <value>//div[@id='gview_MainGrid']/div[2]/div/table/thead/tr[2]/th[2]/div/table/tbody/tr/td[2]/input</value>
+      <webElementGuid>7ea532f9-8af6-417f-a117-56eb919c102e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[2]/div/div/div[2]/div/div/div/div/input</value>
-      <webElementGuid>72f87d15-4040-4125-a7bc-707eba64c6d9</webElementGuid>
+      <value>//td[2]/input</value>
+      <webElementGuid>7ef8922f-c5e7-400f-8b27-8746d0b5e591</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'jqg2_Vol' and @name = 'name' and @type = 'text']</value>
-      <webElementGuid>d32bbe9f-02e2-4178-9ffb-2bd3f08e068c</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'Gen_Cost_Code' and @id = 'gs_Gen_Cost_Code']</value>
+      <webElementGuid>427c59d1-2229-4659-a8c7-ca78f8781964</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

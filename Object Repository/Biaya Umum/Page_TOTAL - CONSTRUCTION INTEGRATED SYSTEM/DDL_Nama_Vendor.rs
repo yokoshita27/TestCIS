@@ -11,10 +11,10 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#s2id_ddlVendor > a.select2-choice > span.select2-chosen</value>
+         <value>#s2id_ddlVendor .select2-chosen</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a2cbca6f-71f4-48a5-ad1f-2c2cfaf6e9b4</webElementGuid>
+      <webElementGuid>62e021f5-1095-4812-8e51-b26023f3a8fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-chosen</value>
-      <webElementGuid>f1a7e0bc-f3a7-4553-b14b-3b96787a7403</webElementGuid>
+      <webElementGuid>3d02045b-27bd-4de0-9fd6-fe7da065ef8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> </value>
-      <webElementGuid>010eb11a-cb25-4c3a-a59a-b1debff13253</webElementGuid>
+      <webElementGuid>f7d0a22d-870f-4a91-a7df-6622c5bf92de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;s2id_ddlVendor&quot;)/a[@class=&quot;select2-choice&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
-      <webElementGuid>70b61227-57be-4ebc-9373-b99d98133f6d</webElementGuid>
+      <webElementGuid>9ef2af00-4331-422b-b243-f16023bf4dca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='s2id_ddlVendor']/a/span</value>
-      <webElementGuid>e0579fdc-095a-40c5-99c6-386995ef7f03</webElementGuid>
+      <webElementGuid>012d84e8-86dc-40dd-8fe8-7553f31c068b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Proyek'])[1]/following::span[1]</value>
-      <webElementGuid>97cdd738-d1c5-4198-9403-1ca20b206cee</webElementGuid>
+      <webElementGuid>6c28f914-fb0f-41a3-9fe8-a90eb8f9cd49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Biaya Umum'])[1]/following::span[1]</value>
-      <webElementGuid>4a74e536-2277-47da-865a-4a8d9c93de3a</webElementGuid>
+      <webElementGuid>f07455d8-7624-457e-8c26-a99539176a61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Vendor'])[1]/preceding::span[2]</value>
-      <webElementGuid>06991984-2ebd-4a9a-a1d6-b6c913f966db</webElementGuid>
+      <webElementGuid>7b27bd95-ac5e-493e-9388-83a7ae60dc26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Biaya Umum'])[2]/preceding::span[2]</value>
-      <webElementGuid>699f979b-c657-4c6b-ae64-bc94e79245ab</webElementGuid>
+      <webElementGuid>765af46a-a3dd-4421-9f27-1638acde6095</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[3]/div/a/span</value>
-      <webElementGuid>1a114eb7-d47d-48ab-8408-b689dcdb7fda</webElementGuid>
+      <webElementGuid>8de348a5-840c-4fc0-9f8d-dd09b17b0f85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' ' or . = ' ')]</value>
-      <webElementGuid>7264c01e-40c8-4807-8be1-1a411e5db0cc</webElementGuid>
+      <webElementGuid>34b30c82-f5ca-4d37-824e-2e203effffd9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

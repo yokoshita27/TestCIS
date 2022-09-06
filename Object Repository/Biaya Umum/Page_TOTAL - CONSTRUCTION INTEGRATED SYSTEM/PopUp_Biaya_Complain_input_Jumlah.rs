@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='jqg3_Jumlah']</value>
+         <value>//input[@class='editable text-right']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>40053187-cb20-4de3-bbb6-1c3d8c0cbc6f</webElementGuid>
+      <webElementGuid>c0da2bc3-a887-45c5-ad9f-72870842ed7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c209f200-b8cd-4d33-80ef-9304b8d5d508</webElementGuid>
+      <webElementGuid>04f9fadc-76fd-47ee-9b47-41a0074a685a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>jqg3_Jumlah</value>
-      <webElementGuid>17f68c87-59c8-4d5a-b16d-eb2ba80eebf2</webElementGuid>
+      <webElementGuid>49b414b6-4f95-492d-9dfb-afc4534ec4dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Jumlah</value>
-      <webElementGuid>ff9ee3bc-fcf5-4f85-a1c8-af889cb7f939</webElementGuid>
+      <webElementGuid>71a3ab0c-d508-4990-89ba-e18e7094d6c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>27c21370-57be-4da3-9a7e-9f7dd4743c6a</webElementGuid>
+      <webElementGuid>ffbb0a66-5769-4f76-8405-703c24a635c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>editable text-right</value>
-      <webElementGuid>dec8ab59-b416-4e52-bd10-35f2c4eb556a</webElementGuid>
+      <webElementGuid>60622566-8a04-4394-b545-fffb02b4e1ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;jqg3_Jumlah&quot;)</value>
-      <webElementGuid>c95732b6-c2d5-4f4a-a9e5-78f74151a803</webElementGuid>
+      <webElementGuid>7344ca51-4f6c-438d-9dd5-20889c8afd73</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='jqg3_Jumlah']</value>
-      <webElementGuid>bda85681-6797-499b-9f64-013bb8435bb1</webElementGuid>
+      <webElementGuid>4d9bd456-0392-4cf6-bbc9-c6dd6c5125c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='jqg3']/td[4]/input</value>
-      <webElementGuid>43142c1f-ef16-493f-9333-a3a960625ec3</webElementGuid>
+      <webElementGuid>994fc99a-e278-4c8a-a6e3-e53e6dbd4a86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[4]/input</value>
-      <webElementGuid>94eb36be-c24f-43c3-a982-892ed3e659b4</webElementGuid>
+      <webElementGuid>cd227070-c30c-4ec4-80c6-a2119204159d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'jqg3_Jumlah' and @name = 'Jumlah']</value>
-      <webElementGuid>ae2b94b5-415f-40e2-86d2-48137c8996b6</webElementGuid>
+      <webElementGuid>26b1c448-c8ed-4ad2-9371-8c2847c0da1a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

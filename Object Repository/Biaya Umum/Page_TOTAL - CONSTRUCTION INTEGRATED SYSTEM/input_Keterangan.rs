@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//textarea[@id='jqg2_Keterangan']</value>
+         <value>//div[@class='panel form-horizontal']//div[@class='col-sm-8']/textarea[@class='form-control']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#jqg2_Keterangan</value>
+         <value>textarea[type='text']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>c9b5d239-7e24-4610-aa59-c605ea73bf2d</webElementGuid>
+      <webElementGuid>2cad3b0b-f122-4bab-94e6-5f2cb897efdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>jqg2_Keterangan</value>
-      <webElementGuid>9c4efe15-b8b3-4528-bf73-f4b4812c2491</webElementGuid>
+      <webElementGuid>0b7e9ba8-af84-46bd-a2e7-be0634ffb641</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>b8b8e680-9a4e-4d29-a343-49e0eafc8b30</webElementGuid>
+      <webElementGuid>c3487cba-b855-41ea-b2c6-85b5a503e73b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6f760cb8-5dbf-4c82-b21b-b4207b5e8205</webElementGuid>
+      <webElementGuid>e2a5010e-5136-4f48-b204-cbf2aae0809e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;jqg2_Keterangan&quot;)</value>
-      <webElementGuid>1fbc176e-619f-47e7-8be8-d46ccd2d9099</webElementGuid>
+      <webElementGuid>3107d8ee-9f2c-469e-b6e7-3c2e7a51e079</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='jqg2_Keterangan']</value>
-      <webElementGuid>91c3afc4-e62a-473b-bfac-4eeea50c7ec6</webElementGuid>
+      <webElementGuid>d18ccb8a-d381-4a14-a021-c21660fe0290</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='MainGridDetail_jqg2']/div/div[2]/div[3]/div/div/div/textarea</value>
-      <webElementGuid>1fc6d70d-4fcc-4be8-ab24-96f313237b8d</webElementGuid>
+      <webElementGuid>99c778f1-acfa-4c57-8355-215d5b519683</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>423ef35d-c7a3-485e-a226-e637ec622f6a</webElementGuid>
+      <webElementGuid>a8b24870-6468-477e-a513-3f63f95f3fc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'jqg2_Keterangan' and @type = 'text']</value>
-      <webElementGuid>9142969c-900a-48af-b432-fb80267ad695</webElementGuid>
+      <webElementGuid>2d4fb648-27cd-404b-98b5-c444a6014436</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

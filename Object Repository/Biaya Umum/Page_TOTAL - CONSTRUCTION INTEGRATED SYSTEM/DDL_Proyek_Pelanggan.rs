@@ -11,10 +11,10 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#s2id_ddlProjectCustomer > a.select2-choice > span.select2-chosen</value>
+         <value>#dvCC .select2-chosen</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>bf150df3-3cef-41c8-9ba8-0f1342317bdd</webElementGuid>
+      <webElementGuid>1fa48598-ab0a-412f-8ed1-08cacebbb689</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-chosen</value>
-      <webElementGuid>d48080f3-5a06-496d-95a3-89c359fc334e</webElementGuid>
+      <webElementGuid>e50d56ad-41b5-47b1-a820-a462d5c0949f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-- Pilih --</value>
-      <webElementGuid>9c7a1741-9e18-4a2a-8fd6-b1b7944a74d9</webElementGuid>
+      <webElementGuid>ff890935-efb7-431e-8e1c-984dd083ad57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;s2id_ddlProjectCustomer&quot;)/a[@class=&quot;select2-choice&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
-      <webElementGuid>557664cb-6942-4f14-8e5f-c901b4d4df8f</webElementGuid>
+      <webElementGuid>46e93f60-8f58-498b-bb09-58db6f4a8064</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='s2id_ddlProjectCustomer']/a/span</value>
-      <webElementGuid>4be2561e-f61b-4e90-bd90-8742f3b819b4</webElementGuid>
+      <webElementGuid>bfec1c92-f839-4d2e-8112-ebd934e3f02c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Biaya Umum'])[2]/following::span[2]</value>
-      <webElementGuid>2205a635-88f5-4f0a-b7f4-cfb1e371eeef</webElementGuid>
+      <webElementGuid>63c80a21-8acb-4d5a-83a2-d1b317d8546b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Complain'])[1]/preceding::span[2]</value>
-      <webElementGuid>4d6955ff-4e2a-4993-9c1e-fbbbe6bac14a</webElementGuid>
+      <webElementGuid>492ae3b9-1413-46db-98ea-cc0b91b8892a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='-- Pilih --']/parent::*</value>
-      <webElementGuid>6a5267fa-42e4-4c5f-83b7-74842701aadc</webElementGuid>
+      <webElementGuid>0f386c08-ade7-4529-8e30-48197275f977</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div/div/a/span</value>
-      <webElementGuid>e3c041e5-6853-422a-9fb0-ca6b233204f3</webElementGuid>
+      <webElementGuid>b3b75018-cb1d-4d3c-9c7d-fc9eacdf9d52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '-- Pilih --' or . = '-- Pilih --')]</value>
-      <webElementGuid>79044271-b15c-408d-a89a-f88817d2c669</webElementGuid>
+      <webElementGuid>f2ae6089-fe29-448f-8eef-cd982f388bbb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

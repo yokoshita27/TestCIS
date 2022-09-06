@@ -1,99 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Volume</name>
+   <name>PopUp_Alasan_Menolak_or_Menyetujui</name>
    <tag></tag>
-   <elementGuidId>4aab8bea-a51d-4553-ab21-18ad17be1ce5</elementGuidId>
+   <elementGuidId>65435b61-9804-42a6-9ea7-d0b790f55332</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class='panel form-horizontal']//div[@class='col-sm-6']/input[@name='name']</value>
+         <value>//textarea[@id='APV_mod_Reason']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.form-horizontal.panel .col-sm-6 > [type='text']</value>
+         <value>#APV_mod_Reason</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>a17cd861-8b1f-455b-ac27-59ab4b06d16c</webElementGuid>
+      <value>textarea</value>
+      <webElementGuid>472c82cf-22e2-4142-b07e-eb6e8ddbb605</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>jqg2_Vol</value>
-      <webElementGuid>cc7737b3-915c-4c66-bbfb-bd9da03b688d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>name</value>
-      <webElementGuid>5c70f1b0-66c3-4f7b-9b35-2871a0051d05</webElementGuid>
+      <value>APV_mod_Reason</value>
+      <webElementGuid>463e25bf-4c72-4099-9d95-fed88a9d3b77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>rows</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>f5234191-f6ae-4e2f-a875-da1cd639ad07</webElementGuid>
+      <value>5</value>
+      <webElementGuid>64d2ec9a-6360-4d2d-beb5-ff8f8ac3240a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cols</name>
+      <type>Main</type>
+      <value>39</value>
+      <webElementGuid>b118b5f8-774c-46f8-98c8-bf6f5d5b7467</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>60c6e079-47cf-4b16-8006-63e7ac834365</webElementGuid>
+      <value>Silahkan tulisan alasan</value>
+      <webElementGuid>4d894903-7db6-44c9-8803-6da4530cec39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;jqg2_Vol&quot;)</value>
-      <webElementGuid>1392ff68-c32d-4a13-9aa8-3dd022de8bcc</webElementGuid>
+      <value>id(&quot;APV_mod_Reason&quot;)</value>
+      <webElementGuid>d36494d9-3785-476b-995b-0eb1ef2571da</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='jqg2_Vol']</value>
-      <webElementGuid>ef8d8224-5b77-4478-89ab-1c28e68e9422</webElementGuid>
+      <value>//textarea[@id='APV_mod_Reason']</value>
+      <webElementGuid>e6f3a51c-21c8-4b7b-9959-bc1231372e75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='MainGridDetail_jqg2']/div/div[2]/div/div/div/div/input</value>
-      <webElementGuid>7d0692d6-09e8-463e-8e9b-3ff1ef56e65f</webElementGuid>
+      <value>//div[@id='APV_Modal_Edit']/div/div/div[2]/div/div/div/div/textarea</value>
+      <webElementGuid>b532b6db-8795-41b1-9cbd-c2f05a85618f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[2]/div/div/div[2]/div/div/div/div/input</value>
-      <webElementGuid>72f87d15-4040-4125-a7bc-707eba64c6d9</webElementGuid>
+      <value>//div[14]/div/div/div[2]/div/div/div/div/textarea</value>
+      <webElementGuid>6b904785-99f2-4b7d-832e-6956111e511d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'jqg2_Vol' and @name = 'name' and @type = 'text']</value>
-      <webElementGuid>d32bbe9f-02e2-4178-9ffb-2bd3f08e068c</webElementGuid>
+      <value>//textarea[@id = 'APV_mod_Reason' and @placeholder = 'Silahkan tulisan alasan']</value>
+      <webElementGuid>45b2a131-d2ed-4826-884f-c27206fd3a32</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
