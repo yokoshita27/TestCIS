@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input select2</name>
+   <name>input_select2</name>
    <tag></tag>
-   <elementGuidId>87f5684f-355a-4ef7-82ec-f6652f6f89ee</elementGuidId>
+   <elementGuidId>26d87aae-ff0c-4c8d-be32-688e5d5ed64b</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[26]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @class = 'select2-input select2-focused']</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>input.select2-input.select2-focused</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@class='select2-input']</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ba0db9a0-9692-4ded-9721-22c82bd6d48c</webElementGuid>
+      <webElementGuid>b3691b20-e97f-4a1a-bebc-675c1c0a0e60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7754978f-7ff2-4d65-af09-56ea747547ea</webElementGuid>
+      <webElementGuid>f59895e1-b020-4fe7-b6de-c79fd58e5e55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>24ea6144-d64d-42d0-93c3-954514e9c6e6</webElementGuid>
+      <webElementGuid>b1615535-c32a-4f99-b326-5024ae4c4883</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>110de70e-f644-431f-9060-12a5e127c2ad</webElementGuid>
+      <webElementGuid>ec6dc31c-123c-44f5-a879-2f877f5445ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>1bbf21bf-2cf0-4cfb-bbb7-973956e48170</webElementGuid>
+      <webElementGuid>b1cd985f-19dc-4564-b050-3a749768151f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +66,15 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bc87da51-c663-42d2-b595-e10c5d87a5f7</webElementGuid>
+      <webElementGuid>ad08f66a-9309-467d-b6d7-7de3af245213</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>select2-input select2-focused</value>
-      <webElementGuid>2983ad53-46df-45da-9160-48a535de575b</webElementGuid>
+      <webElementGuid>767bb1ce-270b-4e8c-b0da-a7afa67e7242</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,15 +82,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-drop&quot;)/div[@class=&quot;select2-search&quot;]/input[@class=&quot;select2-input select2-focused&quot;]</value>
-      <webElementGuid>2b240731-0e91-4e9b-b55b-c559a571aaff</webElementGuid>
+      <webElementGuid>1a0dd52d-6619-4057-84c3-3803de3e81f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[7]</value>
-      <webElementGuid>70735024-e27a-44bf-afec-ab3a59d5f1cf</webElementGuid>
+      <value>(//input[@type='text'])[26]</value>
+      <webElementGuid>826430ad-2bab-42fe-bc44-b04f9273a2d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,22 +98,14 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='select2-drop']/div/input</value>
-      <webElementGuid>4d535d4d-b4af-44f6-b0e7-26dc54b40019</webElementGuid>
+      <webElementGuid>51242aa6-875f-47ab-a035-cba340cbc628</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[11]/div/input</value>
-      <webElementGuid>0e9dc6c0-24c3-49f1-9feb-4e2c464b679e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text']</value>
-      <webElementGuid>792e35ff-4dcb-412d-8855-4d63a9282838</webElementGuid>
+      <value>//div[12]/div/input</value>
+      <webElementGuid>8a8b5cf0-7ecb-483c-8ce3-6b27156b0d7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

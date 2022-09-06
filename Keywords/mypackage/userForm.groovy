@@ -22,17 +22,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class userForm {
-	
+
 	@Keyword
 	public static void BiayaUmum() {
-		
-		WebUI.waitForElementPresent(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'), 10)
-		
-		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'), 2)
 
 		WebUI.click(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'))
 
-		WebUI.setText(findTestObject('Object Repository/Button Global/input select2'), GlobalVariable.Kode_Proyek)
+		WebUI.setText(findTestObject('Object Repository/Button Global/input_select2'), GlobalVariable.Kode_Proyek)
 
 		WebUI.click(findTestObject('Object Repository/Button Global/Select2 Result'), FailureHandling.STOP_ON_FAILURE)
 
@@ -41,14 +37,16 @@ public class userForm {
 		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'), 2)
 
 		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
-		
+
 		WebUI.setText(findTestObject('Object Repository/Button Global/input_Menu_Search'),
-			'Biaya Umum')
-		
+				'Biaya Umum')
+
 		WebUI.click(findTestObject('Object Repository/Button Global/span_Procurement'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Button Global/span_Tender'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Button Global/span_BiayaUmum'))
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
 	}
 }

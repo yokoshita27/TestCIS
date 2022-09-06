@@ -5,4 +5,17 @@
    <tag>Biaya Umum</tag>
    <comment></comment>
    <testCaseGuid>0c98b8d5-ba95-4516-ba42-1f08b7f2af39</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40038956-5ef5-4522-820e-72435a3fdae1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'450'</defaultValue>
+      <description>Customer Care</description>
+      <id>40038956-5ef5-4522-820e-72435a3fdae1</id>
+      <masked>false</masked>
+      <name>Kode_Proyek</name>
+   </variable>
 </TestCaseEntity>

@@ -22,34 +22,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class userLogin {
-	
+
 	@Keyword
 	public static void Login_Officer(){
 		'Login Officer.Trial'
-		WebUI.setText(findTestObject('Object Repository/Login/Page_ LOGIN/input_username'), findTestData("LoginData").getValue(1, 4))
+		WebUI.setText(findTestObject('Object Repository/Login/Page_LOGIN/input_username'), findTestData("LoginData").getValue(1, 4))
 
-		WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_ LOGIN/input_password'),findTestData("LoginData").getValue(2, 4))
+		WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_LOGIN/input_password'),findTestData("LoginData").getValue(2, 4))
 
-		WebUI.click(findTestObject('Object Repository/Login/Page_ LOGIN/Btn_Login'))
-		
+		WebUI.click(findTestObject('Object Repository/Login/Page_LOGIN/btnLogin'))
+
 		WebUI.waitForElementPresent(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'), 10)
 
 		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'), 2)
-
-		WebUI.click(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'))
-
-		WebUI.setText(findTestObject('Object Repository/Button Global/input select2'), '707')
-
-		WebUI.click(findTestObject('Object Repository/Button Global/Select2 Result'), FailureHandling.STOP_ON_FAILURE)
-
-		WebUI.waitForPageLoad(5)
-
-		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'), 2)
-
-		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
-
-		WebUI.click(findTestObject('Object Repository/Login/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/Menu_Procurement'))
-
-		WebUI.click(findTestObject('Object Repository/Login/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/Menu_eTender'))
 	}
 }

@@ -31,10 +31,10 @@ WebUI.click(findTestObject('Object Repository/Login/Page_LOGIN/btnLogin'))
 
 WebUI.click(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'))
 
-WebUI.setText(findTestObject('Object Repository/Button Global/input select2'), 
+WebUI.setText(findTestObject('null'), 
     '707')
 
-WebUI.sendKeys(findTestObject('Object Repository/Button Global/input select2'), 
+WebUI.sendKeys(findTestObject('null'), 
     Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
