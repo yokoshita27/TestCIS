@@ -64,7 +64,7 @@
       <name>Nilai_Biaya_Complain</name>
    </variable>
    <variable>
-      <defaultValue>'GENEX.450220900004'</defaultValue>
+      <defaultValue>'GENEX.450220900030'</defaultValue>
       <description></description>
       <id>2dbf77c2-b663-4b90-81d0-bca42bf6e4cc</id>
       <masked>false</masked>
