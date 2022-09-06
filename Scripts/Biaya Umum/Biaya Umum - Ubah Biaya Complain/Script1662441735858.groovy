@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/Action_Btn'))
+
+WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/Action_btn_Ubah'))
+
+WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/PopUp_Biaya_Complain_DDL_Masalah'))
+
+WebUI.setText(findTestObject('Button Global/input_select2'), Masalah)
+
+WebUI.click(findTestObject('Object Repository/Button Global/Select2 Result'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/PopUp_Biaya_Complain_DDL_Lantai'))
+
+WebUI.setText(findTestObject('Button Global/input_select2'), Lantai)
+
+WebUI.click(findTestObject('Object Repository/Button Global/Select2 Result'), FailureHandling.STOP_ON_FAILURE)
+

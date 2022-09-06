@@ -9,12 +9,6 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>5da33386-47b7-4769-8ea7-6bab738eee79</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
       <variableId>be29022b-85ff-4070-802b-075749126cbe</variableId>
    </variableLinks>
    <variableLinks>
@@ -39,33 +33,8 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>44cc230f-1376-40b8-8b90-012fd2a2f525</variableId>
+      <variableId>2dbf77c2-b663-4b90-81d0-bca42bf6e4cc</variableId>
    </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>6af43ec5-abb4-4499-9dcc-0e402694bd1b</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>2df893a4-27da-4393-bf09-06c3598c912c</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>42df332c-79f1-4b6e-97cf-ab2d396b4ea9</variableId>
-   </variableLinks>
-   <variable>
-      <defaultValue>'ACHMAD BAJUMI SH'</defaultValue>
-      <description></description>
-      <id>5da33386-47b7-4769-8ea7-6bab738eee79</id>
-      <masked>false</masked>
-      <name>Nama_Vendor</name>
-   </variable>
    <variable>
       <defaultValue>'WISMA BARITO PACIFIC 2'</defaultValue>
       <description></description>
@@ -95,31 +64,10 @@
       <name>Nilai_Biaya_Complain</name>
    </variable>
    <variable>
-      <defaultValue>'ANGKUTAN MATERIAL'</defaultValue>
+      <defaultValue>'GENEX.450220900004'</defaultValue>
       <description></description>
-      <id>44cc230f-1376-40b8-8b90-012fd2a2f525</id>
+      <id>2dbf77c2-b663-4b90-81d0-bca42bf6e4cc</id>
       <masked>false</masked>
-      <name>Item</name>
-   </variable>
-   <variable>
-      <defaultValue>'10'</defaultValue>
-      <description></description>
-      <id>6af43ec5-abb4-4499-9dcc-0e402694bd1b</id>
-      <masked>false</masked>
-      <name>Volume</name>
-   </variable>
-   <variable>
-      <defaultValue>'100000'</defaultValue>
-      <description></description>
-      <id>2df893a4-27da-4393-bf09-06c3598c912c</id>
-      <masked>false</masked>
-      <name>Unit_Price</name>
-   </variable>
-   <variable>
-      <defaultValue>'Created By System'</defaultValue>
-      <description></description>
-      <id>42df332c-79f1-4b6e-97cf-ab2d396b4ea9</id>
-      <masked>false</masked>
-      <name>Keterangan</name>
+      <name>No_Biaya_Umum</name>
    </variable>
 </TestCaseEntity>
