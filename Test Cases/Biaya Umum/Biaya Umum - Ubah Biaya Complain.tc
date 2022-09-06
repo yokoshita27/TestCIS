@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ubah Biaya Complain</description>
+   <name>Biaya Umum - Ubah Biaya Complain</name>
+   <tag>Biaya Umum</tag>
+   <comment></comment>
+   <testCaseGuid>5e984512-788f-4c94-a736-0fd8f59839c1</testCaseGuid>
+</TestCaseEntity>
