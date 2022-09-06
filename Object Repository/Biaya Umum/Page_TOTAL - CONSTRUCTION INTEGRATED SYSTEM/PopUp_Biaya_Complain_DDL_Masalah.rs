@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopUp_Biaya_Complain_DDL_Masalah</name>
+   <tag></tag>
+   <elementGuidId>3da3802b-fd22-4fbe-a802-5d251161594a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s2id_jqg3_Keluhan']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#s2id_jqg3_Keluhan > a.select2-choice > span.select2-chosen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c29dafba-e6e2-497b-b211-611ad4c0b12d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-chosen</value>
+      <webElementGuid>fda3bbbf-6e80-4f30-b3b8-c31bfdb7aa1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2207A0D6D97D - Lantai beton retak/gompal</value>
+      <webElementGuid>94946470-86fd-44a5-b3ab-d59411132208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s2id_jqg3_Keluhan&quot;)/a[@class=&quot;select2-choice&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
+      <webElementGuid>98f70283-6deb-4b06-819d-19beed35a52a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s2id_jqg3_Keluhan']/a/span</value>
+      <webElementGuid>09c9c39a-3082-48a6-b890-14af35a8ee04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[46]/following::span[1]</value>
+      <webElementGuid>829ad696-e574-43cb-9338-b128499b089e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[45]/following::span[1]</value>
+      <webElementGuid>308ff779-c5bb-4bd7-9510-28f023bb3508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Pilih --'])[2]/preceding::span[2]</value>
+      <webElementGuid>901a8a2d-8d2f-4bab-b664-e16193725b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah'])[2]/preceding::span[4]</value>
+      <webElementGuid>ee4e8629-1333-4cc9-b557-5ae29008bf66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2207A0D6D97D - Lantai beton retak/gompal']/parent::*</value>
+      <webElementGuid>d7e53de7-0594-46a1-8d12-00191b96f812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/a/span</value>
+      <webElementGuid>cd58fdc3-0f38-48a3-9dc0-e2ef73f458f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2207A0D6D97D - Lantai beton retak/gompal' or . = '2207A0D6D97D - Lantai beton retak/gompal')]</value>
+      <webElementGuid>f7d2c6a9-e7c0-4feb-bd4e-ea62ba2459b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
