@@ -17,13 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser(GlobalVariable.Url)
+//WebUI.openBrowser(GlobalVariable.Url)
+//
+//WebUI.maximizeWindow()
+//
+//'//==>Pilih Loginnya menggunakan User apa'
+//CustomKeywords.'mypackage.userLogin.Login_Implementor'()
+//
+//'//==>Pilih Menu apa yang mau dipakai'
+//CustomKeywords.'mypackage.userForm.BiayaUmum'()
 
-WebUI.maximizeWindow()
+WebUI.setText(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/input_no_biaya_umum'), No_Biaya_Umum)
 
-'//==>Pilih Loginnya menggunakan User apa'
-CustomKeywords.'mypackage.userLogin.Login_Officer'()
-
-'//==>Pilih Menu apa yang mau dipakai'
-CustomKeywords.'mypackage.userForm.BiayaUmum'()
+WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/Action_btn_Search'))
 

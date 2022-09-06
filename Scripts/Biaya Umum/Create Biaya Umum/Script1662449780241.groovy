@@ -49,34 +49,5 @@ WebUI.setText(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SY
 
 WebUI.click(findTestObject('Button Global/btn_Save'))
 
-WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/DDL_Proyek_Pelanggan'))
-
-WebUI.setText(findTestObject('Button Global/input_select2'), Proyek_Pelanggan)
-
-WebUI.click(findTestObject('Object Repository/Button Global/Select2 Result'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/btn_Complain'))
-
-WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/PopUp_BiayaComplain_btn_Tambah'))
-
-WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/PopUp_Biaya_Complain_DDL_Masalah'))
-
-WebUI.setText(findTestObject('Button Global/input_select2'), Masalah)
-
-WebUI.click(findTestObject('Object Repository/Button Global/Select2 Result'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/PopUp_Biaya_Complain_DDL_Lantai'))
-
-WebUI.setText(findTestObject('Button Global/input_select2'), Lantai)
-
-WebUI.click(findTestObject('Object Repository/Button Global/Select2 Result'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.setText(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/PopUp_Biaya_Complain_input_Jumlah'),
-	Nilai_Biaya_Complain)
-
-WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/PopUp_Biaya_Complain_btn_Set'))
-
-WebUI.click(findTestObject('Biaya Umum/Page_TOTAL - CONSTRUCTION INTEGRATED SYSTEM/PopUp_Biaya_Complain_btn_Batal'))
-
-
+WebUI.click(findTestObject('Button Global/btn_Kembali'))
 
