@@ -49,7 +49,7 @@ public class userForm {
 
 		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
 	}
-	
+
 	@Keyword
 	public static void PengajuanCash() {
 
@@ -70,9 +70,38 @@ public class userForm {
 
 		WebUI.click(findTestObject('Object Repository/Button Global/span_Cash Management'))
 
+		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/span_Transaction'), 2)
+
 		WebUI.click(findTestObject('Object Repository/Button Global/span_Transaction'))
 
 		WebUI.click(findTestObject('Object Repository/Button Global/span_Pengajuan Cash'))
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
+	}
+	
+	@Keyword
+	public static void PriceList() {
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'))
+
+		WebUI.setText(findTestObject('Object Repository/Button Global/input_select2'), GlobalVariable.Kode_Proyek)
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Select2 Result'), FailureHandling.STOP_ON_FAILURE)
+
+		WebUI.waitForPageLoad(5)
+
+		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'), 2)
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
+
+		WebUI.setText(findTestObject('Object Repository/Button Global/input_Menu_Search'),
+				'Biaya Umum')
+
+		WebUI.click(findTestObject('Object Repository/Button Global/span_Procurement'))
+
+		WebUI.click(findTestObject('Object Repository/Button Global/span_Tender'))
+
+		WebUI.click(findTestObject('Object Repository/Button Global/span_BiayaUmum'))
 
 		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
 	}
