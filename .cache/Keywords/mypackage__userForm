@@ -1,11 +1,16 @@
 {
-  "keywordFileContentHash": "584A03EB797B3EA7E201A1B4FF0AB3A4",
+  "keywordFileContentHash": "D101BAEA092B84AAE39A6338890F5845",
   "keywordClasses": [
     {
       "name": "mypackage.userForm",
       "keywordMethods": [
         {
           "name": "BiayaUmum",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "PengajuanCash",
           "parameters": [],
           "javadoc": ""
         }

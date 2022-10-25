@@ -14,4 +14,19 @@
       <initValue>'450'</initValue>
       <name>Kode_Proyek</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>IT</description>
+      <initValue>'724'</initValue>
+      <name>IT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Cash Operation</description>
+      <initValue>'712'</initValue>
+      <name>CO</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Accounting</description>
+      <initValue>'713'</initValue>
+      <name>Acc</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

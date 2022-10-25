@@ -36,10 +36,24 @@ public class userLogin {
 
 		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'), 2)
 	}
-	
+
 	@Keyword
 	public static void Login_Implementor(){
 		'Login Implementor'
+		WebUI.setText(findTestObject('Object Repository/Login/Page_LOGIN/input_username'), findTestData("LoginData").getValue(1, 7))
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_LOGIN/input_password'),findTestData("LoginData").getValue(2, 7))
+
+		WebUI.click(findTestObject('Object Repository/Login/Page_LOGIN/btnLogin'))
+
+		WebUI.waitForElementPresent(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'), 10)
+
+		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'), 2)
+	}
+	
+	@Keyword
+	public static void Login_Tester(){
+		'Login Tester'
 		WebUI.setText(findTestObject('Object Repository/Login/Page_LOGIN/input_username'), findTestData("LoginData").getValue(1, 7))
 
 		WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_LOGIN/input_password'),findTestData("LoginData").getValue(2, 7))

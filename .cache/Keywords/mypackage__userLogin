@@ -1,21 +1,23 @@
 {
-  "keywordFileContentHash": "31E443B38EE15A995B47A9F28761CF07",
+  "keywordFileContentHash": "B6FCF4D49832A72047F8C9058507DE66",
   "keywordClasses": [
     {
       "name": "mypackage.userLogin",
       "keywordMethods": [
         {
           "name": "Login_Officer",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "Login_Implementor",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
+        },
+        {
+          "name": "Login_Tester",
+          "parameters": []
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }
