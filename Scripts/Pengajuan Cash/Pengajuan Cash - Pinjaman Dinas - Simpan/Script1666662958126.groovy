@@ -27,5 +27,6 @@ CustomKeywords.'mypackage.userLogin.Login_Tester'()
 '//==>Pilih Menu apa yang mau dipakai'
 CustomKeywords.'mypackage.userForm.PengajuanCash'()
 
-WebUI.click(findTestObject('Button Global/a_Tambah Baru'))
+
+
 

@@ -4,14 +4,19 @@
    <name>span_Transaction</name>
    <tag></tag>
    <elementGuidId>199f5c64-83a6-4f35-b50b-af1df9030983</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@class='mm-dropdown open']/a[.='Transaction']</value>
+         <value>//li[@class='mm-dropdown mm-dropdown-root open']//a[.='Transaction']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[xpath='1']</value>
+         <value>#CoreMenu > li:nth-of-type(16) > .mmc-dropdown-delay > li:nth-of-type(1) > [tabindex='-1']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -26,7 +31,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9ef8ad4e-2547-432d-9d28-4bfde3b1a63a</webElementGuid>
+      <webElementGuid>d35f425a-b271-4401-9212-ca33118bc02a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mm-text</value>
-      <webElementGuid>0e7073b3-3f25-48db-85d2-98770fa5571d</webElementGuid>
+      <webElementGuid>655b5293-644e-4ad1-a3c9-154be2675524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Transaction</value>
-      <webElementGuid>484c5643-6009-4e25-a658-26b3c2e083fb</webElementGuid>
+      <webElementGuid>d5159807-a79e-46bb-a52b-4d29fb2095e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;CoreMenu&quot;)/li[@class=&quot;mm-dropdown mm-dropdown-root open&quot;]/ul[@class=&quot;mmc-dropdown-delay animated fadeInLeft&quot;]/li[@class=&quot;mm-dropdown&quot;]/a[1]/span[@class=&quot;mm-text&quot;]</value>
-      <webElementGuid>b8e62f06-0b0f-4757-9c24-8e0acabe2f75</webElementGuid>
+      <webElementGuid>b360e5e8-cebd-447a-b7bc-d06fade860ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='CoreMenu']/li[10]/ul/li/a/span</value>
-      <webElementGuid>380ded7c-6162-40a1-aadd-8c2d9ea1adef</webElementGuid>
+      <webElementGuid>ed2db105-2247-47ea-ab4a-4738dd617879</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash Management'])[1]/following::span[1]</value>
-      <webElementGuid>afea7bfd-ce09-4945-8db4-613d892cc56e</webElementGuid>
+      <webElementGuid>38a2f70b-4112-4504-8024-7e19708a9157</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Resource Monitoring'])[1]/following::span[2]</value>
-      <webElementGuid>a2538a00-913b-4f10-83f0-9c8188753ebc</webElementGuid>
+      <webElementGuid>07f06ae1-0cd7-48da-9c00-f6ec8f2f6b9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Cash'])[1]/preceding::span[1]</value>
-      <webElementGuid>4b33a217-c46b-4e7f-90d6-33339be9ecf8</webElementGuid>
+      <webElementGuid>ae8a0ed7-2cb5-4fc7-8f00-a8c9ff443d4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pertanggungjawaban Pinjaman'])[1]/preceding::span[2]</value>
-      <webElementGuid>ea542683-f2f7-4d44-80c6-a4cded103f37</webElementGuid>
+      <webElementGuid>6be58637-374c-48ff-a7da-cb09da44c0f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[10]/ul/li/a/span</value>
-      <webElementGuid>115f1f52-0504-4090-8a2a-254ad08b3699</webElementGuid>
+      <webElementGuid>73428902-958e-43cd-8553-c282b388de86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Transaction' or . = 'Transaction')]</value>
-      <webElementGuid>d6c9873b-eeba-4a93-91c3-5aedbcd40b4f</webElementGuid>
+      <webElementGuid>81f59bd6-8dfc-46df-8ef3-36fcb2844bf3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

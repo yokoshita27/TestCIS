@@ -65,12 +65,9 @@ public class userForm {
 
 		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
 
-		WebUI.setText(findTestObject('Object Repository/Button Global/input_Menu_Search'),
-				'Pengajuan Cash')
+		//WebUI.setText(findTestObject('Object Repository/Button Global/input_Menu_Search'),'Pengajuan Cash')
 
 		WebUI.click(findTestObject('Object Repository/Button Global/span_Cash Management'))
-
-		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/span_Transaction'), 2)
 
 		WebUI.click(findTestObject('Object Repository/Button Global/span_Transaction'))
 
@@ -78,7 +75,7 @@ public class userForm {
 
 		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
 	}
-	
+
 	@Keyword
 	public static void PriceList() {
 

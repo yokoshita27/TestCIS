@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3B370F24F0D33EFF61B39A7D73234ED1",
+  "keywordClasses": [
+    {
+      "name": "mypackage.GetName",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
