@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Penggunaan Fasilitas Kredit - Re-Create Data Penggunaan Fasilitas Kredit Setelah Data Closed</description>
+   <name>Penggunaan Fasilitas Kredit - Re-Create Data Penggunaan Fasilitas Kredit Setelah Data Closed</name>
+   <tag>Re-Create Data Penggunaan Fasilitas Kredit Setelah Data Closed</tag>
+   <comment></comment>
+   <testCaseGuid>79ed0495-8f76-4955-a4a4-13f1bac7bd64</testCaseGuid>
+</TestCaseEntity>

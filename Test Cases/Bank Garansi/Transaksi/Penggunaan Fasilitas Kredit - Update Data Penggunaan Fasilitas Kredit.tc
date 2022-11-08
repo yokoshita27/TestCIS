@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Update Data Penggunaan Fasilitas Kredit</description>
+   <name>Penggunaan Fasilitas Kredit - Update Data Penggunaan Fasilitas Kredit</name>
+   <tag>Update Data Penggunaan Fasilitas Kredit</tag>
+   <comment></comment>
+   <testCaseGuid>b807e632-e658-4c59-8e4f-6d75db9e2af1</testCaseGuid>
+</TestCaseEntity>

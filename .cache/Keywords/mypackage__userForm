@@ -6,18 +6,21 @@
       "keywordMethods": [
         {
           "name": "BiayaUmum",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "PengajuanCash",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "PriceList",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

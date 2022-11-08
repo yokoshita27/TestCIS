@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Data Pengembalian Fasilitas Kredit</description>
+   <name>Pengembalian Fasilitas Kredit - Search Data Pengembalian Fasilitas Kredit</name>
+   <tag>Search Data Pengembalian Fasilitas Kredit</tag>
+   <comment></comment>
+   <testCaseGuid>0b990f2c-b741-472c-9b23-5cfb7f8880d1</testCaseGuid>
+</TestCaseEntity>

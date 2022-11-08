@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Update Data Fasilitas Kredit</description>
+   <name>Fasilitas Kredit - Update Data Fasilitas Kredit</name>
+   <tag>Update Data Fasilitas Kredit</tag>
+   <comment></comment>
+   <testCaseGuid>0a9086e8-e500-430d-979a-cd621a0a2a58</testCaseGuid>
+</TestCaseEntity>

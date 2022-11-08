@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Penggunaan Fasilitas Kredit - Nilai Penggunaan Fasilitas Kredit Lebih Besar Dari Nilai Fasilitas Kredit</description>
+   <name>Penggunaan Fasilitas Kredit - Nilai Penggunaan Fasilitas Kredit Lebih Dari Nilai Fasilitas Kredit</name>
+   <tag>Nilai Penggunaan Fasilitas Kredit Lebih Besar Dari Nilai Fasilitas Kredit</tag>
+   <comment></comment>
+   <testCaseGuid>86072d17-c1b6-4b65-a0b5-0e224335ec91</testCaseGuid>
+</TestCaseEntity>

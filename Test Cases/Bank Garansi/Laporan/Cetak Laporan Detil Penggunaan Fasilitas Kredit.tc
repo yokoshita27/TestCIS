@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cetak Laporan Detil Penggunaan Fasilitas Kredit</description>
+   <name>Cetak Laporan Detil Penggunaan Fasilitas Kredit</name>
+   <tag>Cetak Laporan Detil Penggunaan Fasilitas Kredit</tag>
+   <comment></comment>
+   <testCaseGuid>f32dd7b3-8394-45a8-914d-aac4af4082df</testCaseGuid>
+</TestCaseEntity>

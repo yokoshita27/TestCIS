@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tambah Detil Sub Fasilitas Kredit</description>
+   <name>Fasilitas Kredit - Tambah Detil Sub Fasilitas Kredit</name>
+   <tag>Tambah Detil Sub Fasilitas Kredit</tag>
+   <comment></comment>
+   <testCaseGuid>311d9341-f65b-407b-9e4e-2b517328d770</testCaseGuid>
+</TestCaseEntity>

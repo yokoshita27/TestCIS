@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bank Garansi - Master Asuransi</description>
+   <name>Master Asuransi - Tambah Master Asuransi</name>
+   <tag>Master Asuransi</tag>
+   <comment></comment>
+   <testCaseGuid>ee5e9f43-81b3-4bec-8abd-c7f868352e78</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validasi Role Untuk Akses Fitur Create Dan Delete Transaksi Pengembalian Fasilitas Kredit</description>
+   <name>Pengembalian Fasilitas Kredit - Validasi Role Untuk Akses Fitur Create Dan Delete Transaksi Pengembalian Fasilitas Kredit</name>
+   <tag>Validasi Role Untuk Akses Fitur Create Dan Delete Transaksi Pengembalian Fasilitas Kredit</tag>
+   <comment></comment>
+   <testCaseGuid>205622b2-e86e-437e-9b98-c2379e8ce523</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tambah Detil Fasilitas Yang Sama Lebih Dari 1</description>
+   <name>Fasilitas Kredit - Tambah Detil Fasilitas Yang Sama Lebih Dari 1</name>
+   <tag>Tambah Detil Fasilitas Yang Sama Lebih Dari 1</tag>
+   <comment></comment>
+   <testCaseGuid>85b79bb8-aef0-4432-a4d4-3c9e77386423</testCaseGuid>
+</TestCaseEntity>

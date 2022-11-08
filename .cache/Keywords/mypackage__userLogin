@@ -6,18 +6,21 @@
       "keywordMethods": [
         {
           "name": "Login_Officer",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "Login_Implementor",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "Login_Tester",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

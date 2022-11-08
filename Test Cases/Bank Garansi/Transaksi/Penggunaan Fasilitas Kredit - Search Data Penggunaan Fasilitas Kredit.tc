@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Data Penggunaan Fasilitas Kredit</description>
+   <name>Penggunaan Fasilitas Kredit - Search Data Penggunaan Fasilitas Kredit</name>
+   <tag>Search Data Penggunaan Fasilitas Kredit</tag>
+   <comment></comment>
+   <testCaseGuid>e2fbcc6c-3f02-46cf-a55a-7d18a3b3899a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hapus Pengembalian Fasilitas Kredit - Cek Status Pada Transaksi Penggunaan Fasilitas Kredit</description>
+   <name>Pengembalian Fasilitas Kredit - Hapus Pengembalian Fasilitas Kredit - Cek Status Pada Transaksi Penggunaan Fasilitas Kredit</name>
+   <tag>Hapus Pengembalian Fasilitas Kredit - Cek Status Pada Transaksi Penggunaan Fasilitas Kredit</tag>
+   <comment></comment>
+   <testCaseGuid>dd7146c8-09ba-425f-abad-3d45722f7141</testCaseGuid>
+</TestCaseEntity>

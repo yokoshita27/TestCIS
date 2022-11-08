@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proses Pengembalian Fasilitas Kredit - Cek Status Pada Transaksi Penggunaan Fasilitas Kredit</description>
+   <name>Pengembalian Fasilitas Kredit - Proses Pengembalian Fasilitas Kredit - Cek Status Pada Transaksi Penggunaan Fasilitas Kredit</name>
+   <tag>Proses Pengembalian Fasilitas Kredit - Cek Status Pada Transaksi Penggunaan Fasilitas Kredit</tag>
+   <comment></comment>
+   <testCaseGuid>bd1e7364-05c5-4bc7-9df5-546934817390</testCaseGuid>
+</TestCaseEntity>

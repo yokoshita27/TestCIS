@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hapus Pengembalian Fasilitas Kredit Dari Halaman View Transaksi</description>
+   <name>Pengembalian Fasilitas Kredit - Hapus Pengembalian Fasilitas Kredit Dari Halaman View Transaksi</name>
+   <tag>Hapus Pengembalian Fasilitas Kredit Dari Halaman View Transaksi</tag>
+   <comment></comment>
+   <testCaseGuid>be358d6f-ad36-40ad-9caf-ece05fb7335b</testCaseGuid>
+</TestCaseEntity>

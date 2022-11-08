@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Aktif NonAktif Data Master Asuransi</description>
+   <name>Master Asuransi - Aktif NonAktif Data Master Asuransi</name>
+   <tag>Aktif NonAktif</tag>
+   <comment></comment>
+   <testCaseGuid>ff18a1b8-e3a0-417d-a7c0-5ad0e3ae9632</testCaseGuid>
+</TestCaseEntity>
