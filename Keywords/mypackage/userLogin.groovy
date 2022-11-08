@@ -50,7 +50,7 @@ public class userLogin {
 
 		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'), 2)
 	}
-	
+
 	@Keyword
 	public static void Login_Tester(){
 		'Login Tester'

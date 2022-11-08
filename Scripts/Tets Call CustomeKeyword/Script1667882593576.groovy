@@ -17,15 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser(GlobalVariable.Url)
-
-//
-WebUI.maximizeWindow()
-
-//
-'//==>Pilih Loginnya menggunakan User apa'
-CustomKeywords.'mypackage.userLogin.Login_Tester'()
-
-//
-'//==>Pilih Menu apa yang mau dipakai'
-CustomKeywords.'mypackage.userForm.Bank_Garansi_Asuransi'()
+String KdPry
+CustomKeywords.'mypackage.kodeproyek.IT'(KdPry)

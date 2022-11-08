@@ -22,7 +22,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class userForm {
-
+	
 	@Keyword
 	public static void BiayaUmum() {
 
@@ -99,6 +99,60 @@ public class userForm {
 		WebUI.click(findTestObject('Object Repository/Button Global/span_Tender'))
 
 		WebUI.click(findTestObject('Object Repository/Button Global/span_BiayaUmum'))
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
+	}
+	
+	@Keyword
+	public static void Bank_Garansi_Asuransi() {
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'))
+
+		WebUI.setText(findTestObject('Object Repository/Button Global/input_select2'), GlobalVariable.Kode_Proyek)
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Select2 Result'), FailureHandling.STOP_ON_FAILURE)
+
+		WebUI.waitForPageLoad(5)
+
+		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'), 2)
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
+
+		WebUI.setText(findTestObject('Object Repository/Button Global/input_Menu_Search'),
+				'Asuransi')
+
+		WebUI.click(findTestObject('Object Repository/Button Global/span_Bank Garansi'))
+
+		WebUI.click(findTestObject('Object Repository/Button Global/span_Master'))
+
+		WebUI.click(findTestObject('Object Repository/Button Global/span_Asuransi'))
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
+	}
+	
+	@Keyword
+	public static void Bank_Garansi_Fasilitas() {
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Main_Kode_Proyek'))
+
+		WebUI.setText(findTestObject('Object Repository/Button Global/input_select2'), GlobalVariable.Kode_Proyek)
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Select2 Result'), FailureHandling.STOP_ON_FAILURE)
+
+		WebUI.waitForPageLoad(5)
+
+		WebUI.waitForElementClickable(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'), 2)
+
+		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
+
+		WebUI.setText(findTestObject('Object Repository/Button Global/input_Menu_Search'),
+				'Fasilitas')
+
+		WebUI.click(findTestObject('Object Repository/Button Global/span_Bank Garansi'))
+
+		WebUI.click(findTestObject('Object Repository/Button Global/span_Master'))
+
+		WebUI.click(findTestObject('Object Repository/Button Global/span_Fasilitas'))
 
 		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
 	}
