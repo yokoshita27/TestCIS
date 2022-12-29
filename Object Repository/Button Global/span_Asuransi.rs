@@ -6,12 +6,12 @@
    <elementGuidId>b746eac3-789b-43b5-b43a-115fff03b4b8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>ul.mmc-dropdown-delay.animated.fadeInLeft > li.mm-dropdown.open > ul > li > a > span.mm-text</value>
+         <key>XPATH</key>
+         <value>//span[.='Asuransi']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='CoreMenu']/li[6]/ul/li/ul/li/a/span</value>
+         <key>CSS</key>
+         <value>ul.mmc-dropdown-delay.animated.fadeInLeft > li.mm-dropdown.open > ul > li > a > span.mm-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>dc58f11f-e7e6-444d-afd3-cf56fb8678bf</webElementGuid>
+      <webElementGuid>7780a44b-ab87-4b43-9f55-570e7325bbe6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mm-text</value>
-      <webElementGuid>7090b73e-1e9c-419c-9185-d174830a79f1</webElementGuid>
+      <webElementGuid>477c56e7-e096-4ede-a806-74540a0259ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Asuransi</value>
-      <webElementGuid>00892a06-63fe-46a1-aa37-a7f6043e613e</webElementGuid>
+      <webElementGuid>e140634f-8ace-4221-85f1-69aa05dbc11d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;CoreMenu&quot;)/li[@class=&quot;mm-dropdown mm-dropdown-root open&quot;]/ul[@class=&quot;mmc-dropdown-delay animated fadeInLeft&quot;]/li[@class=&quot;mm-dropdown open&quot;]/ul[1]/li[1]/a[1]/span[@class=&quot;mm-text&quot;]</value>
-      <webElementGuid>635aaabd-8293-4aa5-a3e3-05e109a7c798</webElementGuid>
+      <webElementGuid>12516f07-7dc0-4dc6-bc16-2bad2ca1b9be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='CoreMenu']/li[6]/ul/li/ul/li/a/span</value>
-      <webElementGuid>64e3750c-5f1d-4834-8a30-fd8d01e40709</webElementGuid>
+      <webElementGuid>9813526b-1f34-4128-b649-9d1f82e9a6e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Master'])[3]/following::span[1]</value>
-      <webElementGuid>fc88a7a9-2917-408a-831b-f6088d985abf</webElementGuid>
+      <webElementGuid>5981b265-d03f-4bae-ad8c-29c639c602d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Garansi'])[1]/following::span[2]</value>
-      <webElementGuid>60969055-9843-405a-a130-be22b2c0b5bb</webElementGuid>
+      <webElementGuid>d57a6770-d506-4bc4-bbdd-83ae20360de2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fasilitas'])[1]/preceding::span[1]</value>
-      <webElementGuid>54e7ad69-225f-495a-b4c4-c7ffa53b690b</webElementGuid>
+      <webElementGuid>625c42f9-16d1-474c-9b3a-1a99f7347df1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaksi Pusat'])[1]/preceding::span[2]</value>
-      <webElementGuid>32ddae20-8f95-4714-bee0-6b2660675191</webElementGuid>
+      <webElementGuid>8a371157-8f6f-4045-b99a-20bb4bc14188</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Asuransi']/parent::*</value>
-      <webElementGuid>2cfabde8-85d2-47cd-9318-1146c96d1d59</webElementGuid>
+      <webElementGuid>90fc0e30-40f1-4d31-9388-d169a6310e86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li/ul/li/a/span</value>
-      <webElementGuid>e81a2bb2-c747-4ad7-a74e-709ba0d6aa07</webElementGuid>
+      <webElementGuid>dc8031b4-4a90-4d92-a0a6-490beb1592c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Asuransi' or . = 'Asuransi')]</value>
-      <webElementGuid>44c09db7-d6c1-402b-afc1-8ad6a30ebb96</webElementGuid>
+      <webElementGuid>9e238bcd-cd2a-47e7-9381-738c01eca913</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

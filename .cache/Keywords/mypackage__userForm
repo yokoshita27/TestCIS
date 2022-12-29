@@ -6,26 +6,31 @@
       "keywordMethods": [
         {
           "name": "BiayaUmum",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "PengajuanCash",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "PriceList",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "Bank_Garansi_Asuransi",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "Bank_Garansi_Fasilitas",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

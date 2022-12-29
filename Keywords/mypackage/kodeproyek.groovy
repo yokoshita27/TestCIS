@@ -22,31 +22,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class kodeproyek {
-	
+
 	@Keyword
 	def IT(String KdPry) {
 		println "724"
 	}
-	
+
 	@Keyword
 	public static void CashOperation() {
 		String IT = '712'
 	}
-	
+
 	@Keyword
 	public static void Accounting() {
 		String IT = '713'
 	}
-	
+
 	@Keyword
 	public static void Logistic() {
 		String IT = '707'
 	}
-	
+
 	@Keyword
 	public static void Direktur() {
 		String IT = '888'
 	}
-	
 }
 

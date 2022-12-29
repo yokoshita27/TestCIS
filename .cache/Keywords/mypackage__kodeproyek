@@ -20,26 +20,31 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": ""
         },
         {
           "name": "CashOperation",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "Accounting",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "Logistic",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "Direktur",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

@@ -22,7 +22,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class userForm {
-	
+
 	@Keyword
 	public static void BiayaUmum() {
 
@@ -102,7 +102,7 @@ public class userForm {
 
 		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
 	}
-	
+
 	@Keyword
 	public static void Bank_Garansi_Asuransi() {
 
@@ -129,7 +129,7 @@ public class userForm {
 
 		WebUI.click(findTestObject('Object Repository/Button Global/Hide_UnHide_Menu'))
 	}
-	
+
 	@Keyword
 	public static void Bank_Garansi_Fasilitas() {
 
